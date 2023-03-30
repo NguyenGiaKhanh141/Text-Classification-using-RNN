@@ -1,6 +1,14 @@
-# Text-Classification-using-RNN
+## Text-Classification-using-RNN
+## Quora Insincere Questions Classification
 
-One problem that exists for any major website these days is how to handle malicious and divisive content. Quora wants to automatically solve this problem directly to keep their platform a place where users can feel safe sharing knowledge with the world.
+An existential problem for any major website today is how to handle toxic and divisive content. Quora wants to tackle this problem head-on to keep their platform a place where users can feel safe sharing their knowledge with the world.
+
+Quora is a platform that empowers people to learn from each other. On Quora, people can ask questions and connect with others who contribute unique insights and quality answers. A key challenge is to weed out insincere questions -- those founded upon false premises, or that intend to make a statement rather than look for helpful answers.
+
+In this competition, Kagglers will develop models that identify and flag insincere questions. To date, Quora has employed both machine learning and manual review to address this problem. With your help, they can develop more scalable methods to detect toxic and misleading content.
+
+Here's your chance to combat online trolls at scale. Help Quora uphold their policy of “Be Nice, Be Respectful” and continue to be a place for sharing and growing the world’s knowledge.
+
 
 Data link: https://drive.google.com/file/d/1qaC28LmnPVSLE4LmPDnHBCeRhJIzNgrn/view?usp=sharing
 Glove dictionary link: https://drive.google.com/file/d/1UOPLN7PH4QfHe_g_kNgHSdgvvQePvdqz/view?usp=sharing
